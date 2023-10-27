@@ -45,18 +45,12 @@
                             <img src="images/about/<?= $data['imageName']; ?>" data-src="images/about/<?php echo $data['imageName']; ?>" data-title="LGRRC" alt="LGRRC" width="1280" height="853" />
                         </div>
                     <?php endforeach; ?>
-
-
                 </div>
-
                 <div class="mibreit-thumbview">
                     <?php foreach ($about_carousel as $key => $data) : ?>
-
-
                         <div class="mibreit-imageElement">
                             <img src="images/about/<?= $data['imageName']; ?>" data-src="images/about/<?php echo $data['imageName']; ?>" data-title="LGRRC" alt="LGRRC" width="1280" height="853" />
                         </div>
-
                     <?php endforeach; ?>
                 </div>
 
