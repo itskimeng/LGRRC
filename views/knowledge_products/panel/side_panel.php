@@ -2,7 +2,7 @@
     <div class="box-body custom-box-body">
         <div class="tab">
             <button class="tablinks active" onclick="JavaScript:selectTab('tab1');">
-                PDF's
+                Books
             </button>
             <button class="tablinks" onclick="JavaScript:selectTab('tab2');">
                 Videos
